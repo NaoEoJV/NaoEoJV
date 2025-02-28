@@ -1,6 +1,8 @@
- João Vitor
+<h1>  João Vitor</h1>
 
-Este é o texto de apresentação de vocẽs
+<p>Este é o texto de apresentação de vocẽs</p>
 
-Tchau
-exit 
+<p>Tchau</p>exit
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="50px" />
