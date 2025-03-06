@@ -10,6 +10,8 @@
 
 <h1> Estudante de Programação</h1>
 
+<P>:earth_americas: Brasileiro moro em => São Paulo do Potengi</p>
+
 <p>trabalho com instalação de foros de PVC</p>
 
 <p>Não deixe pra amanha oque vc nao vai fazer numca</p> 
