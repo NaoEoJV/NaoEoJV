@@ -1,8 +1,8 @@
 <h1>  João Vitor</h1>
 
-<p>Este é o texto de apresentação de vocẽs</p>
+<p>idade: 20</p>
 
-<p>Tchau</p>exit
+<p>altura: 1,79</p>exit
 
 
 
