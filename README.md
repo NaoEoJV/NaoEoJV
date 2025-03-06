@@ -2,7 +2,7 @@
 
 <p>idade: 20</p>
 
-<p>altura: 1,79</p>exit
+<p>altura: 1,79</p> bem e isso <exit>
 
 
 
