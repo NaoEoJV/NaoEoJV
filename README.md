@@ -9,7 +9,7 @@
 
 <h1> Estudante de Programação</h1>
 
-<P>:earth_americas: °Brasileiro morando em São Paulo do Potengi</p>
+<li>:earth_americas: °Brasileiro morando em São Paulo do Potengi</li>
 
 <p>:computer: °Trabalho com instalação de foros de PVC</p>
 
@@ -30,6 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50px" />
 
-
+<h3>Redes Sociais e Contatos</h3> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
 
 
