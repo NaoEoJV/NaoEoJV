@@ -1,4 +1,4 @@
-<h1>  João Vitor</h1>
+<h1> Óla, Me chamo João Vitor! 👋</h1>
 
 <p>idade: 20</p>
 
@@ -23,7 +23,7 @@
 
 <p>°Trabalho em equipe</p>
 
-<p>°observador e detalhista</p>
+<p>:chart_with_upwards_trend:°observador e detalhista</p>
 
 <h2>°Tecnologias que utilizo</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50px" >
