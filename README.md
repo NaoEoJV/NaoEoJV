@@ -21,7 +21,7 @@
 
 <h2>Habilidades principais</h2>
 
-<p>°Trabalho em equipe</p>
+<p>:kimono:°Trabalho em equipe</p>
 
 <p>:chart_with_upwards_trend:°observador e detalhista</p>
 
